@@ -1,0 +1,27 @@
+.main-heading{
+  font-size: 40px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: brown;
+  background-color: plum;
+  padding: 20px;
+  border-radius: 20px 0;
+  border: solid 2px brown;
+  text-align: center;
+}
+
+.heading{
+  font-size: 25px;
+  font-family:Arial, Helvetica, sans-serif;
+  color: lightcoral;
+}
+.background{
+  box-shadow:  2px 2px 4px #ffa3a333, /* Top left */
+  -2px 2px 4px #ffa3a333, /* Top right */
+  2px -2px 4px #ffa3a333, /* Bottom left */
+  -2px -2px 4px #ffa3a333; /* Bottom right */
+  border-radius: 20px;
+}
+.box-border{
+  border: solid 2px brown;
+  border-radius: 20px 0 20px 0;
+}
